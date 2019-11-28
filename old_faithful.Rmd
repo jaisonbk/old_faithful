@@ -58,8 +58,7 @@ print("Adding my own functions here")
 x<- rnorm(n = 10)
 print (x)
 ```
-
-
+## ok.. did it work?
 
 
 ttry three
