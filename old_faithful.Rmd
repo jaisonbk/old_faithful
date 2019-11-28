@@ -61,5 +61,9 @@ print (x)
 ## ok.. did it work?
 
 
-ttry three
+
+Use this code for committing if the push button is not working
+'git push origin master'
+
+code for committing  `git commit -m "comment"`
 
