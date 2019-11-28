@@ -52,3 +52,9 @@ plot(df$waiting, df$eruptions)
 
 Clearly we have that Old Faithful has two 'modes' - waiting for a short time with small eruprtions
 and waiting for a longer time with larger erutions. 
+
+```{r}
+print("Adding my own functions here")
+x<- rnorm(n = 10)
+print (x)
+```
